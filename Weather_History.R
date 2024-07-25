@@ -9,7 +9,7 @@ install.packages('caTools')
 library(caTools)
 
 # Read the weather data
-weatherHistory = read.xlsx('E:\\OneDrive\\IVY\\Stats+R\\Materials\\Assigments\\Multiple Linear Regression Assignment\\weatherHistory.xlsx', na.strings = c("", " ", "NA", "NULL", "null"))
+weatherHistory = read.xlsx('weatherHistory.xlsx', na.strings = c("", " ", "NA", "NULL", "null"))
 
 # Basic Exploration of the data
 sum(is.na(weatherHistory))
