@@ -12,7 +12,7 @@ The dataset used for this analysis is sourced from [Kaggel.com](https://www.kagg
    - Extracted and transformed date components (day, month, year, hour).
 
 2. **Data Visualization**:
-   - Created histograms and bar plots to explore data distributions.
+   - Created histograms![Alt text](Histograms_for_Continuous_Variabales.jpeg) and bar plots to explore data distributions.
    - Conducted correlation analysis and ANOVA tests.
 
 3. **Feature Engineering**:
